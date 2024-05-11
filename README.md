@@ -6,10 +6,10 @@ const laura = {
   letsTalkAbout: ["web dev", "UX", "SEO", "accessibility", "psychology", "literary fiction"],
   currentlyWorkingOn: {
     collaborating: "Jointure",
-    refactoring: "Useless Utopia SPA",
+    refactoring: "Useless Utopia",
     building: "Lau’s Paws Website",
-    designing: "Eventizi web app",
-    learning: "UX design with Figma",
+    designing: "Eventizi",
+    learning: "Figma Design Essentials",
   },
 };
 ```
