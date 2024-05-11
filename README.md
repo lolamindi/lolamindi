@@ -1,3 +1,11 @@
+Hi, I'm Laura! 
+
+
+Linkedin: laura-artaza GitHub: ![lolamindi](https://img.shields.io/badge/github.com/lolamindi)
+
+
+ A little more about me...
+
 ```bash
 const laura = {
   pronouns: "she" | "her",
