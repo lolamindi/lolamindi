@@ -12,7 +12,7 @@ const laura = {
   code: ["JavaScript", "HTML", "CSS", "PHP"],
   tools: ["React", "Next", "MySQL", "Laravel", "Tailwind", "Bootstrap", "Jest", "Cypress", "Git"],
 
-  letsTalkAbout: ["web dev", "UX", "SEO", "accessibility", "psychology", "literary fiction"],
+  letsTalkAbout: ["web dev", "UX design", "accessibility", "SEO", "psychology", "literary fiction"],
 
   currentlyWorkingOn: {
     collaborating: "Jointure",
