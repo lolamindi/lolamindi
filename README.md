@@ -1,7 +1,7 @@
 Hi, I'm Laura! 
 
-
-Linkedin: laura-artaza GitHub: ![lolamindi](https://img.shields.io/badge/github.com/lolamindi)
+[![](https://img.shields.io/badge/-laura--artaza-blue?logo=linkedin)](https://www.linkedin.com/in/laura-artaza/)
+[![](https://img.shields.io/badge/-Follow-EA4AAA?logo=github)](https://github.com/lolamindi)
 
 
  A little more about me...
