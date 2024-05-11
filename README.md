@@ -1,10 +1,10 @@
-Hi, I'm Laura! 
+## Hi, I'm Laura! 
 
 [![](https://img.shields.io/badge/-laura--artaza-blue?logo=linkedin)](https://www.linkedin.com/in/laura-artaza/)
 [![](https://img.shields.io/badge/-Follow-EA4AAA?logo=github)](https://github.com/lolamindi)
 
 
- A little more about me...
+ #### A little bit more about me...
 
 ```bash
 const laura = {
