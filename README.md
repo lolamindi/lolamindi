@@ -20,8 +20,8 @@ const laura = {
   currentlyWorkingOn: {
     collaborating: "Jointure",
     refactoring: "Useless Utopia",
-    building: "Lau’s Paws Website",
-    designing: "Eventizi",
+    building: "Lau’s Paws",
+    designing: "Naturizi",
     learning: "Figma Design Essentials",
   },
 };
