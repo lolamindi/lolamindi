@@ -19,10 +19,9 @@ const laura = {
 
   currentlyWorkingOn: {
     collaborating: "Jointure",
-    refactoring: "Useless Utopia",
-    building: "Lau’s Paws",
-    designing: "Naturizi",
-    learning: "Figma Design Essentials",
+    volunteering: "The Free Conversations Movement",
+    personal project: "The Reading Room",
+    building: "Lau’s Paws"
   },
 };
 ```
