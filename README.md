@@ -15,12 +15,12 @@ const laura = {
   code: ["JavaScript", "HTML", "CSS", "PHP"],
   tools: ["React", "Next", "MySQL", "Laravel", "Tailwind", "Bootstrap", "Jest", "Cypress", "Git", "Figma"],
 
-  letsTalkAbout: ["web development", "UX design", "accessibility", "SEO", "psychology", "literary fiction"],
+  letsTalkAbout: ["web development", "UX/UI design", "accessibility", "SEO", "psychology", "books"],
 
   currentlyWorkingOn: {
     collaborating: "Jointure",
     volunteering: "The Free Conversations Movement",
-    personal project: "The Reading Room",
+    recoding: "The Reading Room",
     building: "Lau’s Paws"
   },
 };
