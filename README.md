@@ -20,7 +20,7 @@ const laura = {
   currentlyWorkingOn: {
     collaborating: "Jointure",
     volunteering: "The Free Conversations Movement",
-    recoding: "The Reading Room",
+    redesigning: "Recs.",
     building: "Lau’s Paws"
   },
 };
