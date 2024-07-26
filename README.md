@@ -15,10 +15,9 @@ const laura = {
   code: ["JavaScript", "HTML", "CSS", "PHP"],
   tools: ["React", "Next", "MySQL", "Laravel", "Tailwind", "Bootstrap", "Jest", "Cypress", "Git", "Figma"],
 
-  letsTalkAbout: ["web development", "UX/UI design", "accessibility", "SEO", "psychology", "books"],
+  letsTalkAbout: ["web development", "accessibility", "languages", "psychology", "books"],
 
   currentlyWorkingOn: {
-    collaborating: "Jointure",
     volunteering: "The Free Conversations Movement",
     redesigning: "Recs.",
     building: "Lau’s Paws"
