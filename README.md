@@ -19,10 +19,21 @@ const laura = {
 
   currentlyWorkingOn: {
     volunteering: "The Free Conversations Movement",
-    redesigning: "Recs.",
-    building: "Lau’s Paws"
+    building: "Lau’s Paws",
+    studying: "Database Design and Basic SQL in PostgreSQL"
   },
 };
 ```
+
+</div>
+
+<div align="center">
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=lolamindi&theme=default&hide_border=false&ring=pink&fire=pink&currStreakLabel=pink&border=ff69b4)
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=lolamindi&bg_color=ffffff&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=false)
+
+
+
 
 </div>
