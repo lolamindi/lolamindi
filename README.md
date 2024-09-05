@@ -13,14 +13,14 @@ const laura = {
   origin: "UK",
 
   code: ["JavaScript", "HTML", "CSS", "PHP"],
-  tools: ["React", "Next", "MySQL", "Laravel", "Tailwind", "Bootstrap", "Jest", "Cypress", "Git", "Figma"],
+  tools: ["React", "Next.js", "MySQL", "Laravel", "Tailwind", "Bootstrap", "Jest", "Cypress", "Git", "Figma"],
 
   letsTalkAbout: ["web development", "accessibility", "languages", "psychology", "books"],
 
   currentlyWorkingOn: {
     volunteering: "The Free Conversations Movement",
     building: "Lau’s Paws",
-    studying: "Database Design and Basic SQL in PostgreSQL"
+    studying: ["Intermediate JavaScript", "Excel Pivot Tables", "SALESmanago Database Segmentation"]
   },
 };
 ```
