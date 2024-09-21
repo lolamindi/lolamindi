@@ -8,7 +8,7 @@
 
 ```bash
 const laura = {
-  pronouns: "she" | "her",
+  pronouns: "she"/"her",
   location: "Barcelona",
   origin: "UK",
 
