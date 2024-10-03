@@ -13,7 +13,7 @@ const laura = {
   origin: "UK",
 
   code: ["JavaScript", "HTML", "CSS", "PHP"],
-  tools: ["React", "Next.js", "MySQL", "Laravel", "Tailwind", "Bootstrap", "Jest", "Cypress", "Git", "Figma"],
+  tools: ["React", "Next.js", "MySQL", "Laravel", "Tailwind", "Git", "Figma"],
 
   letsTalkAbout: ["web development", "accessibility", "languages", "psychology", "books"],
 
