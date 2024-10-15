@@ -20,7 +20,7 @@ const laura = {
   currentlyWorkingOn: {
     volunteering: "The Free Conversations Movement",
     building: "Lau’s Paws",
-    studying: ["Intermediate JavaScript", "Excel Pivot Tables", "SALESmanago Database Segmentation"]
+    studying: "Intermediate JavaScript"
   },
 };
 ```
