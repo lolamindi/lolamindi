@@ -15,7 +15,7 @@ const laura = {
   code: ["JavaScript", "HTML", "CSS", "PHP"],
   tools: ["React", "Next.js", "MySQL", "Laravel", "Tailwind", "Git", "Figma"],
 
-  letsTalkAbout: ["web development", "accessibility", "90s/00s series", "psychology", "literature"],
+  letsTalkAbout: ["web development", "accessibility", "The Sopranos", "psychology", "literature"],
 
   currentlyWorkingOn: {
     building: "Lau’s Paws",
